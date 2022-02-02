@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
 Version X,Liberación,Autentidoc,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
-Version X,Producto integrado FSW,Identitum,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">IDENTITUM</a></strong> </p>"
-Version X,Validación FSW,EMI Plus,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Plus</a></strong> </p>"
-Version X,Recibido FSW,EMI Web,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Web</a></strong> </p>"
+Version X,Integración,Identitum,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">IDENTITUM</a></strong> </p>"
+Version X,Validación,EMI Plus,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Plus</a></strong> </p>"
+Version X,Recibido,EMI Web,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Web</a></strong> </p>"
