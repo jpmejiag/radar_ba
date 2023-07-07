@@ -1,6 +1,5 @@
 name,ring,quadrant,isNew,description
 Version X,Liberación,Autentidoc,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
 Version X,Integración,Identitum y Cloud,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">IDENTITUM</a></strong> </p>"
-Version X,Validación,EMI Plus,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Plus</a></strong> </p>"
 Version X,Recibido,EMI Web,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">EMI Web</a></strong> </p>"
 Identy (Huellas sin contacto),Validación,EMI Plus,FALSE,"<p><strong><a href= ""https://www.identy.io/index">EMI Plus</a></strong>El producto se encuentra en la rama del desarrollo del producto EMIPLUS, se han hecho pruebas unitarias 06072023. </p>"
