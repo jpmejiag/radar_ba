@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Version 1,Investigar,Biometric Sw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
-Version 2,Evaluar,Biometric Sw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
-Version 3,Adoptar,Biometric Sw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
-Version 4,Integrar,Biometric Sw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>
+Version 1,Investigar,BiometricSw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
+Version 2,Evaluar,BiometricSw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
+Version 3,Adoptar,BiometricSw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>"
+Version 4,Integrar,BiometricSw,FALSE,"<p><strong><a href= ""https://www.identitum.com/"">AUTENTIDOC</a></strong> </p>
